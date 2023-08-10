@@ -3,6 +3,7 @@
 
   <body>
     <center><h2>Currently studying and known languages<h2></center>
+<div>
       <img align="center" alt="halinayv-HTML" height="30" width="40" src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)"
         -
       <img align="center" alt="halinayv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
