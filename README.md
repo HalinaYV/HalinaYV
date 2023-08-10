@@ -3,11 +3,11 @@
 
   <body>
     <center><h2>Currently studying and known languages<h2></center>
-      <img align="center" alt="halinayv-HTML" height="50" width="60" src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)"
+      <img align="center" alt="halinayv-HTML" height="30" width="40" src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)"
         -
-      <img align="center" alt="halinayv-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="halinayv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   -
-      <img align="center" alt="halinayv-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+      <img align="center" alt="halinayv-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
       
 </div>
         </body>
