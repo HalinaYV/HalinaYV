@@ -2,15 +2,12 @@
   <center><h1>Willkommen!!</h1></center><br/>  
 
   <body>
-    <img src= "https://www.clipartmax.com/png/middle/294-2943352_separator-1511402728-red-separator-png.png"
+    <img src= "![image](https://github.com/HalinaYV/HalinaYV/assets/140664814/13abe8da-b35c-4bae-98de-03517e7ccf3d)
+"
   </body>
 
 <html>
 
-<body>
-  
-</body>
-  <img src= "https://www.clipartmax.com/png/middle/294-2943352_separator-1511402728-red-separator-png.png"
 </html>
   <center><h1>Hello, you can call me Hali, at your very services!!<h1></center><br/>
     <center><h3>I'm a currrent Dev student focusing on C++ CSS and HTML  with full stack goal, being quick at achieving that goal it's non negotiable, I''m here to help and be helped<h3></center><br/>
