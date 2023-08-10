@@ -2,8 +2,7 @@
   <center><h1>Willkommen!!</h1></center><br/>  
 
   <body>
-    <img src= "![image](https://github.com/HalinaYV/HalinaYV/assets/140664814/13abe8da-b35c-4bae-98de-03517e7ccf3d)
-"
+    <img src= "![294-2943352_separator-1511402728-red-separator-png](https://github.com/HalinaYV/HalinaYV/assets/140664814/670cb840-c45e-4ede-af4f-949ee1224c55)"
   </body>
 
 <html>
