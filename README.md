@@ -1,6 +1,5 @@
 <div align="right"> 
-    ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
-<div>
+
   <center><h1 align="center">Willkommen!!</h1></center><br/>  
     <h2 align="center">Currently studying and known languages<h2>
 <div>
