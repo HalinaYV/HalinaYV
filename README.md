@@ -1,4 +1,8 @@
 <div align="right"> 
+
+</div>
+<div align="center">
+
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=30&pause=1&color=09ed19&center=true&multiline=true&repeat=false&width=600&height=100&lines=Willkommen](https://git.io/typing-svg)
   
