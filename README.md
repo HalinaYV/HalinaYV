@@ -14,9 +14,11 @@
 <h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
 
  <div align="center">
-   <hr>
+   
 <h3>Currently studying and known languages</h3>
-  </div>
+   
+ </div>
+  
 <div>
   <div align="center">
       <img align="center" alt="HalinaYV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
