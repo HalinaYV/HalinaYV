@@ -10,11 +10,6 @@
 ### Currently studying and known languages
 </div>
 
-<h1 align="center">
-  
-![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=shadow_red)
-</h1>
-
 <div>
   <div align="center">
       <img align="center" alt="HalinaYV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,6 +18,11 @@
         -
       <img align="center" alt="HalinaYV-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   </div>
+
+<h1 align="center">
+  
+![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=shadow_red)
+</h1>
 
 
 <h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
