@@ -1,5 +1,6 @@
 <div align="right"> 
-    
+    ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
+<div>
   <center><h1 align="center">Willkommen!!</h1></center><br/>  
     <h2 align="center">Currently studying and known languages<h2>
 <div>
@@ -10,13 +11,16 @@
         -
       <img align="center" alt="HalinaYV-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   </div>
-      
 
 
 <h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
 <h3 align="center">I'm a currrent Dev student focusing on C++ CSS and HTML  with full stack goal, being quick at achieving that goal it's non negotiable, I''m here to help and be helped<h3><br/>
 <h3 align="center">You can help yourself and look up after my repositories/star linked to see the best ones I could've found<h3>
 
-
+<h1 align="center">
+  
+![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
 
 <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
+
+</h1>
