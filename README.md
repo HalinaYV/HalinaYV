@@ -12,7 +12,7 @@
 
 <div>
   <div align="center">
-      <img align="center" alt="HalinaYV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="HalinaYV-HTML" height="30" width="40" src="file:///C:/Users/julia/Downloads/html5.svg">
         -
       <img align="center" alt="HalinaYV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         -
@@ -24,6 +24,7 @@
 ![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=swift)
 </h1>
 
+//https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
 
 <h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
 <h3 align="center">I'm a currrent Dev student focusing on C++ CSS and HTML  with full stack goal, being quick at achieving that goal it's non negotiable, I''m here to help and be helped<h3><br/>
