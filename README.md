@@ -1,7 +1,8 @@
 <div align="right"> 
-
-  <center><h1 align="center">Willkommen!!</h1></center><br/>  
-    <h2 align="center">Currently studying and known languages<h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=30&pause=1&color=09ed19&center=true&multiline=true&repeat=false&width=600&height=100&lines=Willkommen)](https://git.io/typing-svg)
+  
+  <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Willkommen)](https://git.io/typing-svg)-->
+### Currently studying and known languages
 <div>
   <div align="center">
       <img align="center" alt="HalinaYV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
