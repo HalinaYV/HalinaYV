@@ -21,7 +21,7 @@
 
 <h1 align="center">
   
-![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=graywhite)
+![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=swift)
 </h1>
 
 
