@@ -14,7 +14,7 @@
 <h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
 
  <div align="center">
-### Currently studying and known languages
+<h2>Currently studying and known languages</h2>
   </div>
 <div>
   <div align="center">
