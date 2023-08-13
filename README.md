@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Cinzel&size=50&pause=1&color=ad1207&center=true&multiline=true&repeat=false&width=600&height=100&lines=Willkommen
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Cinzel&size=50&pause=1&color=ad1207&center=true&multiline=true&repeat=false&width=600&height=100&lines=★Willkommen★
 )](https://git.io/typing-svg)
   
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Willkommen)](https://git.io/typing-svg)-->    
