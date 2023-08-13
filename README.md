@@ -9,11 +9,11 @@
   
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Willkommen)](https://git.io/typing-svg)-->    
 
-### Currently studying and known languages
-
 </div>
 
 <h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
+
+### Currently studying and known languages
 
 <div>
   <div align="center">
@@ -29,8 +29,6 @@
 ![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=swift)
 </h1>
 
-
-<h1 align="center">Hello, you can call me Hali, at your very services!!<h1><br/>
 <h3 align="center">I'm a currrent Dev student focusing on C++ CSS and HTML  with full stack goal, being quick at achieving that goal it's non negotiable, I''m here to help and be helped<h3><br/>
 <h3 align="center">You can help yourself and look up after my repositories/star linked to see the best ones I could've found<h3>
 
