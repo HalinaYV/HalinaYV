@@ -27,7 +27,7 @@
 
 <h1 align="center">
   
-![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
+![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYVG&show_icons=true&theme=radical)
 
 <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
 
