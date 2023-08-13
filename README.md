@@ -33,8 +33,8 @@
 ![HalinaYV's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalinaYV&show_icons=true&theme=swift)
 </h1>
 
-<h3 align="center">I'm a currrent Dev student focusing on C++ CSS and HTML  with full stack goal, being quick at achieving that goal it's non negotiable, I''m here to help and be helped<h3><br/>
-<h3 align="center">You can help yourself and look up after my repositories/star linked to see the best ones I could've found<h3>
+<h3 align="center">★I'm a currrent Dev student focusing on C++ CSS and HTML  with full stack goal, being quick at achieving that goal it's non negotiable, I'm here to help and be helped!★<h3><br/>
+<h3 align="center">★You can help yourself and look up after my repositories/star linked to see the best ones I could've found!★<h3>
 
 <h1 align="center">
   
