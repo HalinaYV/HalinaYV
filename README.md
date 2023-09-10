@@ -36,7 +36,8 @@
 <p align="center">★You can help yourself and look up after my repositories/star linked to see the best ones I could've found!★</p>
 
 <h1 align="center">
-  
+
+  ![gif2](https://github.com/HalinaYV/HalinaYV/assets/140664814/bea9921b-07bb-4bee-a2ab-00737a16ae66)
 
 <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
 
